@@ -1,5 +1,12 @@
 @import "tailwindcss";
 
+@theme inline {
+  --color-primary: #3b82f6;
+  --color-on-surface: #f3f4f6;
+  --color-on-surface-variant: #a1a9b6;
+  --color-surface: #0d0f17;
+}
+
 :root {
   --bg-surface-dim: #090b10;
   --bg-surface: #0d0f17;
