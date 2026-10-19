@@ -32,7 +32,7 @@ const LINKS = {
   github: "https://github.com/H-ERDEM",
   linkedin: "https://www.linkedin.com/in/hayrunnisa-b%C3%BC%C5%9Fra-erdem-92846332a/",
   email: "mailto:hbusraerdemmmm@gmail.com",
-  cv: "https://docs.google.com/document/d/1JqUn_FUpGePrVbspQ-RWUIAHfFGZMpBB/edit?usp=sharing&ouid=102143341472325807196&rtpof=true&sd=true",
+  cv: "https://docs.google.com/document/d/1KTkWZP96h9MulI6mjtSLAfWuc-K6he_P/edit?usp=sharing&ouid=102143341472325807196&rtpof=true&sd=true",
 };
 
 type Category = "software" | "ai";
